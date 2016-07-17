@@ -1,2 +1,1 @@
 This is first commit from master
-The second editor from master
